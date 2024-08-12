@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MEAN Stack**
 
-- 👨‍💻 All of my projects are available at [https://anand-p-s.github.io/myDevPortfolio/](https://react-portfolio-anand-phi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://react-portfolio-anand-phi.vercel.app/](https://react-portfolio-anand-phi.vercel.app/)
 
 - 💬 Ask me about **Angular, React.js, Node.js, Express.js, MongoDB, MySQL**
 
