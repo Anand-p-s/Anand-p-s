@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-p-s&label=Profile%20views&color=0e75b6&style=flat" alt="anand-p-s" /> </p>
 
-- 🌱 I’m currently learning **MEAN Stack**
+- Associate Engineer @ **LITMUS7**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-anand-phi.vercel.app/](https://react-portfolio-anand-phi.vercel.app/)
+- My Portfolio - [https://react-portfolio-anand-phi.vercel.app/](https://react-portfolio-anand-phi.vercel.app/)
 
 - 💬 Ask me about **Angular, React.js, Node.js, Express.js, MongoDB, MySQL**
 
